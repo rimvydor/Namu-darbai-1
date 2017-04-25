@@ -30,13 +30,17 @@ namespace Namu_darbai_1
             //ClassUzduotis6 dangus = new ClassUzduotis6();
             //dangus.DangusMet();
 
-            //uzduotis_7
-            ClassUzduotis7 daugyba = new ClassUzduotis7();
-            daugyba.daugybosMet();
+            ////uzduotis_7
+            //ClassUzduotis7 daugyba = new ClassUzduotis7();
+            //daugyba.daugybosMet();
 
             ////uzduotis_8
             //ClassUzduotis8 kvadKub = new ClassUzduotis8();
             //kvadKub.kvadratuKubu();
+            
+            ////uzduotis_11
+            //Uzduotis11 p = new Uzduotis11();
+            //p.algos();  
         }
     }
 }
