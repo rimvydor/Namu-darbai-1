@@ -41,6 +41,10 @@ namespace Namu_darbai_1
             ////uzduotis_11
             //Uzduotis11 p = new Uzduotis11();
             //p.algos();  
+            
+            ////uzduotis_12
+            //Uzduotis12 p = new Uzduotis12();
+            //p.prekyba();
         }
     }
 }
